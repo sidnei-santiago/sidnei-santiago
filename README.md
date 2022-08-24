@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidnei-santiago&label=Profile%20views&color=0e75b6&style=flat" alt="sidnei-santiago" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidnei-santiago" alt="sidnei-santiago" /></a> </p>
+
+- 💬 Ask me about **Data Engineer Senior**
+
 - 📫 How to reach me **sidnei.gs@gmail.com**
+
+- 📄 Know about my experiences [Cloud Computing Products: - Microsoft Azure = Blob Storage/Data Lake Gen2, Azure Databricks, HDInsight, Azure Data Factory; - Google Cloud Platform = Google DataFlow, DataProc e Google BigQuery; - Amazon Web Services - Amazon S3, AWS Databricks, Amazon Athena; - OSS = HDFS, Kafka, Spark, Hive;](Cloud Computing Products: - Microsoft Azure = Blob Storage/Data Lake Gen2, Azure Databricks, HDInsight, Azure Data Factory; - Google Cloud Platform = Google DataFlow, DataProc e Google BigQuery; - Amazon Web Services - Amazon S3, AWS Databricks, Amazon Athena; - OSS = HDFS, Kafka, Spark, Hive;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
